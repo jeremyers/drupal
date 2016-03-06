@@ -1,6 +1,6 @@
 # About this Repo
 
-This is the Git repo of the Docker [official image](https://docs.docker.com/docker-hub/official_repos/) for [drupal](https://registry.hub.docker.com/_/drupal/). See [the Docker Hub page](https://registry.hub.docker.com/_/drupal/) for the full readme on how to use this Docker image and for information regarding contributing and issues.
+This is a testing repo of the Docker [official image](https://docs.docker.com/docker-hub/official_repos/) for [drupal](https://registry.hub.docker.com/_/drupal/). See [the Docker Hub page](https://registry.hub.docker.com/_/drupal/) for the official Docker image.
 
 The full readme is generated over in [docker-library/docs](https://github.com/docker-library/docs), specificially in [docker-library/docs/drupal](https://github.com/docker-library/docs/tree/master/drupal).
 
